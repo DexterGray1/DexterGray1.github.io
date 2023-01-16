@@ -1,3 +1,3 @@
 # DexterGray1.github.io
-Web Fundamentals Portfolio Projects
+Hello, World,  and welcome to my first website 
 index.html
